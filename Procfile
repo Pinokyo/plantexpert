@@ -1,1 +1,1 @@
-web gunicorn plant-expert-app:app
+web gunicorn api:app
