@@ -3,8 +3,12 @@
 
 -    In this study, images of tomato leaves (9 diseases and a healthy class) obtained from tomato dataset is provided as input to machine learning-based architectures to find solutions to these problems. The role of the number of images and significance of hyperparameters (namely minibatch size, weight, and bias learning rate) in the classification accuracy and execution time have been analyzed. The system we created is currently working only for tomatoes. However, it’ll contain many important plants in the future like lettuce, pepper, eggplant, etc. We planned to provide a system that the user can take a picture of a plant and easily upload the plant's picture to the mobile application. After that, the user will receive a result about the disease of the plant, and information on how to avoid and treat it. The application will be user-friendly and finally, it will increase efficiency, save time, optimize plant production and protection, while making a contribution to sustainable agriculture.
 
--    You can find details about the project on the slide named "Senior Slayd.pptx".
+-    You can find details (application content, pictures, video) about the project on the slide named "Senior Slayd.pptx".
 
-# *in Turkish* 
+*in Turkish* 
 
-blabalb
+-    Ülkemizin ekonomisinde çok önemli bir yere sahip olan domatesler, yetiştirildikleri bölgelerde çiftçilerimizin önemli gelir kaynaklarından birini oluşturmaktadır. Domateslerde hastalıkların geç tespiti ve o hastalığın yayılması üretim kalitesini ve miktarını büyük ölçüde etkiler. Bu soruna karşı koymak için hızlı, güvenilir ve tahribatsız bir yöntem kullanarak hastalıkların erken teşhisi çiftçilere fayda sağlayacaktır. Domates yetiştirmek basit olduğu kadar hassas da bir iş olduğundan, kişinin yanlış müdahalesi (bir çiftçi, bir sera sahibi veya arka bahçesinde domates yetiştiren biri) sonucu bitki hastalığa da yakalanabilir. 
+
+-    Bu çalışmada, domates verisetinden elde edilen domates yapraklarının (9 hastalık ve sağlıklı bir sınıf) görüntüleri, bu tarz sorunlara çözüm getirmek için makine öğrenimi tabanlı mimarilere girdi olarak sunulmuştur. Sınıflandırma doğruluğu ve yürütme süresinde görüntü sayısının ve hiperparametrelerin (minibatch boyutu, ağırlık ve yanlılık öğrenme hızı) öneminin önemi analiz edilmiştir. Oluşturduğumuz sistem şu anda sadece domates odaklı çalışıyor ancak ileri safhalarda bununla birlikte marul, biber, patlıcan vb. birçok önemli bitkiyi de içerecektir. Kullanıcının hastalığından şüphe ettiği bitkinin resmini çekip mobil uygulamaya kolayca yükleyebileceği bir sistem sağlamayı planladık. Daha sonra, kullanıcı, varsa bitkinin hastalığını ve bunun nasıl önleneceği hakkında bir detaylı bir sonuç alacaktır. Uygulama kullanıcı dostudur ve sürdürülebilir tarıma katkıda bulunurken verimliliği arttırıp, zamandan tasarruf ederek, bitki üretimini ve korumasını optimize edecek. 
+
+-    Proje ile ilgili detayları (uygulama içeriği, resim, video) "Senior Slayd.pptx" isimli slaytta bulabilirsiniz.
