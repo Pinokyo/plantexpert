@@ -5,7 +5,9 @@
 
 -    You can find details (application content, pictures, video) about the project on the slide named "Senior Slayd.pptx".
 
-*in Turkish* 
+
+                           ----------------------------*in Turkish*----------------------------
+                           
 
 -    Ülkemizin ekonomisinde çok önemli bir yere sahip olan domatesler, yetiştirildikleri bölgelerde çiftçilerimizin önemli gelir kaynaklarından birini oluşturmaktadır. Domateslerde hastalıkların geç tespiti ve o hastalığın yayılması üretim kalitesini ve miktarını büyük ölçüde etkiler. Bu soruna karşı koymak için hızlı, güvenilir ve tahribatsız bir yöntem kullanarak hastalıkların erken teşhisi çiftçilere fayda sağlayacaktır. Domates yetiştirmek basit olduğu kadar hassas da bir iş olduğundan, kişinin yanlış müdahalesi (bir çiftçi, bir sera sahibi veya arka bahçesinde domates yetiştiren biri) sonucu bitki hastalığa da yakalanabilir. 
 
